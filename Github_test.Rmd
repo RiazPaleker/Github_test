@@ -231,6 +231,8 @@ You can also very easily split a page using built-in Pandoc formatting. I commen
 
 #  Methodology \label{Meth}
 
+
+# PLOTS (TEST FIR GITHUB)
 ## Subsection
 Ideally do not overuse subsections. It equates to bad writing.^[This is an example of a footnote by the way. Something that should also not be overused.]
 
